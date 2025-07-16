@@ -96,11 +96,11 @@
 		- The main event is a 60-minute race divided into four stints.
 		- Each stint is separated by a mandatory pit stop.
 	- **4.1.2 Pit Stops:**
-		- Karts must enter the pit lane during the following times:
+		- Karts must enter the pit lane exactly once during each of the following times:
 			- Pit 1: 13-17m after race start
 			- Pit 2: 28-32m after race start
 			- Pit 3: 43-47m after race start
-		- Karts must remain in the pit lane for a minimum of 2 minutes.
+		- Karts must remain in the pit lane for a minimum of 2 minutes during
 		- Teams must complete a driver swap during their pit stop.
 		- Refueling during the pit stop is encouraged but not mandatory.
 		- Karts that do not adhere to pit stop regulations may incur penalties up to and including disqualification.
@@ -129,5 +129,5 @@
 - Participants must adhere to high standards of sportsmanship and respect for competitors, officials, and event staff.  
 - Intentional collisions or dangerous driving behaviors are strictly prohibited.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTQxMTU5NjddfQ==
+eyJoaXN0b3J5IjpbMjE0MDQ1OTQyMywtMTA5NDExNTk2N119
 -->
