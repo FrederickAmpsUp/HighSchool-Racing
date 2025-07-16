@@ -107,7 +107,7 @@
 	- **4.1.3 Extra Regulations:**
 		- All drivers must adhere to attire regulations while in the kart.
 		- Drivers' attire may be shared between drivers.
-		- Teams must use a
+		- Teams must use between two and four (inclusive) drivers during the race.
 		- Karts that run out of fuel on track will not finish the race.
 	- **4.1.4 Grid Position:** Starting grid positions for endurance races will be randomly chosen prior to the race start.
 
@@ -130,6 +130,5 @@
 - Participants must adhere to high standards of sportsmanship and respect for competitors, officials, and event staff.  
 - Intentional collisions or dangerous driving behaviors are strictly prohibited.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzEzMTE0NTksLTEwOTQxMTU5NjddfQ
-==
+eyJoaXN0b3J5IjpbMjE0NDgyNDU3NiwtMTA5NDExNTk2N119
 -->
