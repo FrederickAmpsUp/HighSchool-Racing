@@ -100,13 +100,14 @@
 			- Pit 1: 13-17m after race start
 			- Pit 2: 28-32m after race start
 			- Pit 3: 43-47m after race start
-		- Karts must remain in the pit lane for a minimum of 2 minutes during
-		- Teams must complete a driver swap during their pit stop.
-		- Refueling during the pit stop is encouraged but not mandatory.
+		- Karts must remain in the pit lane for a minimum of 2 minutes during a stop.
+		- Teams must complete a driver swap during each pit stop.
+		- Refueling during each pit stop is encouraged but not mandatory.
 		- Karts that do not adhere to pit stop regulations may incur penalties up to and including disqualification.
 	- **4.1.3 Extra Regulations:**
-		- Both drivers must adhere to attire regulations while in the kart.
+		- All drivers must adhere to attire regulations while in the kart.
 		- Drivers' attire may be shared between drivers.
+		- Teams must use a
 		- Karts that run out of fuel on track will not finish the race.
 	- **4.1.4 Grid Position:** Starting grid positions for endurance races will be randomly chosen prior to the race start.
 
@@ -129,5 +130,6 @@
 - Participants must adhere to high standards of sportsmanship and respect for competitors, officials, and event staff.  
 - Intentional collisions or dangerous driving behaviors are strictly prohibited.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDQ1OTQyMywtMTA5NDExNTk2N119
+eyJoaXN0b3J5IjpbLTE1MzEzMTE0NTksLTEwOTQxMTU5NjddfQ
+==
 -->
